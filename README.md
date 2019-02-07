@@ -1,0 +1,1 @@
+shoppin card creado con redux
